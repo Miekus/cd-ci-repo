@@ -1,0 +1,71 @@
+adoption_jffe_projects_count{action="clicked",context="project",domain="adoption",element="button",event="create_new_project",route="/admin/projects/list"} 1 1663762462092
+adoption_jffe_projects_count{action="created",context="project",domain="adoption",event="create_new_project",route="/admin/projects/list"} 1 1663762462092
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/repositories/local",route="/admin/projects/overview?projectKey=mieku"} 2 1663762462092
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/repositories/remote?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 1 1663762462092
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/onboarding-page?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 1 1663762462092
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/packages?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 3 1663762462092
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/repositories/local?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 1 1663762462092
+
+adoption_jffe_projects_count{action="clicked",context="project",domain="adoption",element="button",event="create_new_project",route="/admin/projects/list"} 1 1663766062093
+adoption_jffe_projects_count{action="created",context="project",domain="adoption",event="create_new_project",route="/admin/projects/list"} 1 1663766062093
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/repositories/local",route="/admin/projects/overview?projectKey=mieku"} 2 1663766062093
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/repositories/remote?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 3 1663766062093
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/onboarding-page?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 1 1663766062093
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/packages?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 3 1663766062093
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/repositories/local?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 2 1663766062093
+adoption_jffe_projects_count{action="clicked",context="project",domain="adoption",element="button",event="create_new_project",route="/admin/projects/create"} 1 1663766062093
+
+adoption_jffe_projects_count{action="clicked",context="project",domain="adoption",element="button",event="create_new_project",route="/admin/projects/list"} 1 1663769662094
+adoption_jffe_projects_count{action="created",context="project",domain="adoption",event="create_new_project",route="/admin/projects/list"} 1 1663769662094
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/repositories/local",route="/admin/projects/overview?projectKey=mieku"} 2 1663769662094
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/repositories/remote?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 3 1663769662094
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/onboarding-page?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 1 1663769662094
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/packages?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 3 1663769662094
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/repositories/local?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 2 1663769662094
+adoption_jffe_projects_count{action="clicked",context="project",domain="adoption",element="button",event="create_new_project",route="/admin/projects/create"} 1 1663769662094
+
+adoption_jffe_projects_count{action="clicked",context="project",domain="adoption",element="button",event="create_new_project",route="/admin/projects/list"} 1 1663773262093
+adoption_jffe_projects_count{action="created",context="project",domain="adoption",event="create_new_project",route="/admin/projects/list"} 1 1663773262093
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/repositories/local",route="/admin/projects/overview?projectKey=mieku"} 2 1663773262093
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/repositories/remote?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 3 1663773262093
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/onboarding-page?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 1 1663773262093
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/packages?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 3 1663773262093
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/repositories/local?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 2 1663773262093
+adoption_jffe_projects_count{action="clicked",context="project",domain="adoption",element="button",event="create_new_project",route="/admin/projects/create"} 1 1663773262093
+
+adoption_jffe_projects_count{action="clicked",context="project",domain="adoption",element="button",event="create_new_project",route="/admin/projects/list"} 1 1663776862094
+adoption_jffe_projects_count{action="created",context="project",domain="adoption",event="create_new_project",route="/admin/projects/list"} 1 1663776862094
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/repositories/local",route="/admin/projects/overview?projectKey=mieku"} 2 1663776862094
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/repositories/remote?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 3 1663776862094
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/onboarding-page?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 1 1663776862094
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/packages?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 3 1663776862094
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/repositories/local?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 2 1663776862094
+adoption_jffe_projects_count{action="clicked",context="project",domain="adoption",element="button",event="create_new_project",route="/admin/projects/create"} 1 1663776862094
+
+adoption_jffe_projects_count{action="clicked",context="project",domain="adoption",element="button",event="create_new_project",route="/admin/projects/list"} 1 1663780462095
+adoption_jffe_projects_count{action="created",context="project",domain="adoption",event="create_new_project",route="/admin/projects/list"} 1 1663780462095
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/repositories/local",route="/admin/projects/overview?projectKey=mieku"} 2 1663780462095
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/repositories/remote?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 3 1663780462095
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/onboarding-page?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 1 1663780462095
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/packages?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 3 1663780462095
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/repositories/local?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 2 1663780462095
+adoption_jffe_projects_count{action="clicked",context="project",domain="adoption",element="button",event="create_new_project",route="/admin/projects/create"} 1 1663780462095
+
+adoption_jffe_projects_count{action="clicked",context="project",domain="adoption",element="button",event="create_new_project",route="/admin/projects/list"} 1 1663784062096
+adoption_jffe_projects_count{action="created",context="project",domain="adoption",event="create_new_project",route="/admin/projects/list"} 1 1663784062096
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/repositories/local",route="/admin/projects/overview?projectKey=mieku"} 2 1663784062096
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/repositories/remote?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 3 1663784062096
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/onboarding-page?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 1 1663784062096
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/packages?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 3 1663784062096
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/repositories/local?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 2 1663784062096
+adoption_jffe_projects_count{action="clicked",context="project",domain="adoption",element="button",event="create_new_project",route="/admin/projects/create"} 1 1663784062096
+
+adoption_jffe_projects_count{action="clicked",context="project",domain="adoption",element="button",event="create_new_project",route="/admin/projects/list"} 1 1663787662098
+adoption_jffe_projects_count{action="created",context="project",domain="adoption",event="create_new_project",route="/admin/projects/list"} 1 1663787662098
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/repositories/local",route="/admin/projects/overview?projectKey=mieku"} 2 1663787662098
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/repositories/remote?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 3 1663787662098
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/onboarding-page?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 1 1663787662098
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/packages?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 3 1663787662098
+adoption_jffe_projects_count{action="visited",context="project",domain="adoption",event="page_visited",from="/admin/repositories/local?projectKey=mieku",route="/admin/projects/overview?projectKey=mieku"} 2 1663787662098
+adoption_jffe_projects_count{action="clicked",context="project",domain="adoption",element="button",event="create_new_project",route="/admin/projects/create"} 1 1663787662098
+
